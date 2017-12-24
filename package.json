@@ -1,0 +1,26 @@
+{
+  "name": "studyport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "SET \"NODE_ENV=test\" && mocha test/server/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcussmith0/study-port.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcussmith0/study-port/issues"
+  },
+  "homepage": "https://github.com/marcussmith0/study-port#readme"
+}
